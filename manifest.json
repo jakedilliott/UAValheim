@@ -1,0 +1,15 @@
+{
+    "name": "UAValheim",
+    "version_number" : "0.1.0",
+    "website_url": "https://github.com/jakedilliott/UAValheim",
+    "description": "The modpack is for personal use to share a common set of mods with friends",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.901",
+        "abearcodes-CraftingWithContainers-1.0.14",
+        "abearcodes-SimpleRecycling-0.0.13",
+        "castix-FloatingItems-0.1.0",
+        "Rolo-ExploreTogether-1.3.0",
+        "sweetgiorni-AnyPortal-1.0.4",
+        "Xenofell-RememberIPDamnit-0.2.0"
+        ]
+}
